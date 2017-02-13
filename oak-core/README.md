@@ -13,7 +13,7 @@ key interfaces:
   * Root / Tree
 
 The `ContentRepository` interface represents an entire Oak content repository.
-The repository may local or remote, or a cluster of any size. These deployment
+The repository may be local or remote, or a cluster of any size. These deployment
 details are all hidden behind this interface.
 
 Starting and stopping `ContentRepository` instances is the responsibility of
